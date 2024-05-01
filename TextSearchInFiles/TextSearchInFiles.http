@@ -1,0 +1,6 @@
+@TextSearchInFiles_HostAddress = http://localhost:5037
+
+GET {{TextSearchInFiles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
